@@ -1,3 +1,3 @@
-# AWS
+# AZURE
 
-Currently studying for the AWS Solutions Architect Associate Exam
+Currently studying for the AZ-900 and AZ-104 Exams
